@@ -28,19 +28,6 @@ correct, tested, well-documented code.
 - 🛡️ **Security tooling** — a signed IoT vulnerability-audit pipeline over CPE/CVE data
 - 🐍 **Backend & automation** — tested Python services (FastAPI), scrapers, data pipelines
 
-## Featured Projects
-
-- **[iot-audit](https://github.com/Salhi-zh/iot-audit)** — IoT security-audit pipeline: device photo → brand/model → **CPE** (NIST) → **CVE** (NVD) → signed PDF report with an HMAC-chained audit journal. *(Python)*
-- **[micro-kernel](https://github.com/Salhi-zh/micro-kernel)** — a hobby **x86 OS** written from scratch: GDT/IDT, interrupts, paging, PCI, an **RTL8139 NIC driver**, a tiny network/DNS stack and an interactive shell. *(C · ASM)*
-- **[re-lab](https://github.com/Salhi-zh/re-lab)** — 50+ Linux crackmes, each isolating one **anti-reverse-engineering** or crypto technique (ptrace traps, rdtsc timing, VM obfuscation, seccomp, XTEA/RC4/ChaCha…). *(C)*
-- **[re-challenges](https://github.com/Salhi-zh/re-challenges)** — 80 progressive **reverse-engineering crackmes** with generators, solvers and full write-ups. *(C · Python)*
-- **[musicbox](https://github.com/Salhi-zh/musicbox)** — a tested media-library ingester + librarian HTTP server (metadata cleaning with confidence tiers, ReplayGain, cover art). *(Python · FastAPI)*
-- **[job-scraper](https://github.com/Salhi-zh/job-scraper)** — a cybersecurity job aggregator that scrapes boards and renders a self-contained tracking dashboard. *(Python)*
-
-## Education
-
-- 🎓 **Engineering student** — Polytech Lille (France) & ENSA Kénitra / UIT (Morocco), specialising in cybersecurity.
-
 ## Currently Learning
 
 Going deeper on vulnerability research, exploit development, and systems internals — and
@@ -53,8 +40,3 @@ sharpening RE / CTF skills on real binaries.
 <!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) -->
 
 <p align="center"><i>Open to internships in cybersecurity, reverse engineering, and systems / software engineering.</i></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salhi-zh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhi-zh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160">
-</p>
