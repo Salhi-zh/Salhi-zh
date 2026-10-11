@@ -14,19 +14,16 @@ correct, tested, well-documented code.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Reverse engineering & security:** Ghidra · IDA · radare2 · gdb/pwndbg · CVE/NVD & CPE · STRIDE / OWASP
 
 ## What I work on
 
-- 🔎 **Reverse engineering & CTF** — binary analysis, anti-debugging, crypto gates, exploit PoCs
-- 🧩 **Systems & low-level** — an OS kernel from scratch (interrupts, paging, PCI, a NIC driver)
-- 🛡️ **Security tooling** — a signed IoT vulnerability-audit pipeline over CPE/CVE data
-- 🐍 **Backend & automation** — tested Python services (FastAPI), scrapers, data pipelines
+- **Reverse engineering & CTF** — binary analysis, anti-debugging, crypto gates, exploit PoCs
+- **Systems & low-level** — an OS kernel from scratch (interrupts, paging, PCI, a NIC driver)
+- **Security tooling** — a signed IoT vulnerability-audit pipeline over CPE/CVE data
+- **Backend & automation** — tested Python services (FastAPI), scrapers, data pipelines
 
 ## Currently Learning
 
